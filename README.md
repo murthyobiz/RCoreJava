@@ -1,2 +1,2 @@
 # RCoreJava
-hfcj
+Design patterns in Java
